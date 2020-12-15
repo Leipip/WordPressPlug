@@ -22,3 +22,7 @@ The User-Table plugin can be installed directly into your plugins folder "as-is"
 - 
 - 
 
+## Running the tests
+
+
+## Deployment
