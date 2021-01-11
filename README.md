@@ -1,5 +1,5 @@
 # WordPressPlug-User-Table
-A wordPress plugin in to build an display a HTML table from a JSON fetched from a online REST Api dispalying the details of a users profile formatted with css for visuals.
+A wordPress plugin in to build an display a HTML table from a JSON fetched from a online REST API dispalying the details of a users profile formatted with css for visuals.
 
 ## Contents
 The WordPress Plugin User Table includes the following files:
