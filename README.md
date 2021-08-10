@@ -20,7 +20,7 @@ The User-Table plugin can be installed directly into your plugins folder "as-is"
 ## How to Use
 - Navigate to Plugins section on your wordpress dashboard
 - Click the activate button on the plugin named "displaytable Plugin"
-- A table a new page should be created with name of th epage being "" and table on the page displaying the parsed JSON reposne from the rest API at "https://jsonplaceholder.typicode.com" along with clickable links in the table to open details of different user's asynchronously.
+- A table a new page should be created with name of the page being "" and table on the page displaying the parsed JSON response from the rest API at "https://jsonplaceholder.typicode.com" along with clickable links in the table to open details of different user's asynchronously.
 
 
 ## Authors
